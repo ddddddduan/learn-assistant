@@ -1,0 +1,11 @@
+{
+  "romte": {
+    "base_url": "https://degree.qingshuxuetang.com/hkd/Student/Home"
+  },
+  "auth": {
+    "access_token": "xxx替换成自己青书学堂的access_token"
+  },
+  "db": {
+    "db_path": "../db/learn_record.db"
+  }
+}
